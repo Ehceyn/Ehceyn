@@ -1,16 +1,41 @@
-### Hi there 👋
+## <img src="https://raw.githubusercontent.com/Eunit99/eunit99/master/img/wave.gif" width="30px"> Hola! I'm [Paul Edeme'kong!](https://twitter.com/chimeruzee1)
+### Loves Clean Code, Day Dreaming Occasionally on Flutter/Dart
+### Founder @Flutter-Fairy.
+
+- 🔭 I’m currently working at [Medalla](https://medalla.se/) as React Developer.
+- 🎤 Open for tech talks & Flutter Geeks
+- 🌱 Currently learning more about Android & iOS native langueges.
+- 👯 I’m looking to collaborate on [Youtube: Flutter Fairy](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ).
+- 💬 Ask me about Flutter or any tech related stuff.
+- 📫 How to reach me: [Twitter - @edeme_kong](https://twitter.com/chimeruzee1) , [Youtube - @flutterfairy](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ)
+- 👩‍🎓 Want to learn flutter visit my channel [Youtube - @flutterFairy](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hello-paulvin&label=Views&color=blue&style=plastic" alt="hello-paulvin" /> </p>
 
 
-**Ehceyn/Ehceyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages and Tools:**  
 
-Here are some ideas to get you started:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/expressjs/expressjs.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootdtrap/bootstrap.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png"></code>   
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/materialui/materialui.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
+
+
+
+
+
+<a href="https://github.com/hello-paulvin">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=hello-paulvin&show_icons=true&theme=light&line_height=27" alt="Edeme'kong's github stats"/>
+</a>
+
+
+### Hey, visit my youtube channel Flutter Fairy 👉 [visit here](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ)!
+
+</div>
