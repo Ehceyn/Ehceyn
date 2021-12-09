@@ -26,8 +26,8 @@
 
 
 
-<a href="https://github.com/hello-paulvin">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=hello-paulvin&show_icons=true&theme=light&line_height=27" alt="Edeme'kong's github stats"/>
+<a href="https://github.com/ehceyn">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ehceyn&show_icons=true&theme=dark&line_height=27" alt="Chimeruzee's github stats"/>
 </a>
 
 
