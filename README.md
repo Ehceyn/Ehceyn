@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/Eunit99/eunit99/master/img/wave.gif" width="30px"> Hola! I'm [Paul Edeme'kong!](https://twitter.com/chimeruzee1)
+## <img src="https://raw.githubusercontent.com/Eunit99/eunit99/master/img/wave.gif" width="30px"> Howdy! I'm [Chidum Chimeruzee!](https://twitter.com/chimeruzee1)
 ### Loves Clean Code, Day Dreaming Occasionally on Flutter/Dart
 ### Founder @Flutter-Fairy.
 
