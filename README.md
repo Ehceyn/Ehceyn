@@ -10,7 +10,7 @@
 - 📫 How to reach me: [Twitter - @edeme_kong](https://twitter.com/chimeruzee1) , [Youtube - @flutterfairy](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ)
 - 👩‍🎓 Want to learn flutter visit my channel [Youtube - @flutterFairy](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hello-paulvin&label=Views&color=blue&style=plastic" alt="hello-paulvin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ehceyn&label=Views&color=blue&style=plastic" alt="ehceyn" /> </p>
 
 
 **Languages and Tools:**  
