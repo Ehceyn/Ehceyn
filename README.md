@@ -1,14 +1,14 @@
 ## <img src="https://raw.githubusercontent.com/Eunit99/eunit99/master/img/wave.gif" width="30px"> Howdy! I'm [Chidum Chimeruzee!](https://twitter.com/chimeruzee1)
 ### Loves Clean Code, Day Dreaming Occasionally on Flutter/Dart
-### Founder @Flutter-Fairy.
+### Founder @React-rooster.
 
-- 🔭 I’m currently working at [Medalla](https://medalla.se/) as React Developer.
-- 🎤 Open for tech talks & Flutter Geeks
-- 🌱 Currently learning more about Android & iOS native langueges.
-- 👯 I’m looking to collaborate on [Youtube: Flutter Fairy](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ).
-- 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @edeme_kong](https://twitter.com/chimeruzee1) , [Youtube - @flutterfairy](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ)
-- 👩‍🎓 Want to learn flutter visit my channel [Youtube - @flutterFairy](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ)
+- 🔭 I’m currently a React Developer freelancer.
+- 🎤 Open for tech talks & React Geeks
+- 🌱 Currently learning more about graphql & react-native.
+- 👯 I’m looking to collaborate on any react open source project.
+- 💬 Ask me about React or any tech related stuff.
+- 📫 How to reach me: [Twitter - @Chimeruzee1](https://twitter.com/chimeruzee1) , [LinkedIn - @Chimeruzee](https://www.linkedin.com/in/chimeruzee-chidum-7417591ba/)
+<!-- - 👩‍🎓 Want to learn flutter visit my channel [Youtube - @flutterFairy](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehceyn&label=Views&color=blue&style=plastic" alt="ehceyn" /> </p>
 
@@ -31,6 +31,6 @@
 </a>
 
 
-### Hey, visit my youtube channel Flutter Fairy 👉 [visit here](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ)!
+<!-- ### Hey, visit my youtube channel Flutter Fairy 👉 [visit here](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ)! -->
 
 </div>
