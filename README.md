@@ -1,5 +1,5 @@
 ## <img src="https://raw.githubusercontent.com/Eunit99/eunit99/master/img/wave.gif" width="30px"> Howdy! I'm [Chidum Chimeruzee!](https://twitter.com/chimeruzee1)
-### Loves Clean Code, Day Dreaming Occasionally on Flutter/Dart
+### Loves Clean Code, Day Dreaming Occasionally on React/Metaverse
 <!-- ### Founder @React-rooster. -->
 
 - 🔭 I’m currently a React Developer freelancer.
