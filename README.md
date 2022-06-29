@@ -1,8 +1,8 @@
-## <img src="https://raw.githubusercontent.com/Eunit99/eunit99/master/img/wave.gif" width="30px"> Howdy! I'm [Chidum Chimeruzee!](https://www.linkedin.com/in/chimeruzee-chidum-7417591ba/)
+## <img src="https://raw.githubusercontent.com/Eunit99/eunit99/master/img/wave.gif" width="5px"> Howdy! I'm [Chidum Chimeruzee!](https://www.linkedin.com/in/chimeruzee-chidum-7417591ba/)
 ### Loves Clean Code, Day Dreaming Occasionally on React/Metaverse
 <!-- ### Founder @React-rooster. -->
 
-- 🔭 I’m currently a React Developer freelancer.
+- 🔭 I’m currently a React Developer.
 - 🎤 Open for tech talks & React Geeks
 - 🌱 Currently learning more about graphql & react-native.
 - 👯 I’m looking to collaborate on any react open source project.
