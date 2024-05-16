@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/Eunit99/eunit99/master/img/wave.gif" width="5px"> Howdy! I'm [Chidum Chimeruzee!](https://www.linkedin.com/in/chimeruzee-chidum-7417591ba/)
+## <img src="https://raw.githubusercontent.com/Eunit99/eunit99/master/img/wave.gif" width="50px"> Howdy! I'm [Chidum Chimeruzee!](https://www.linkedin.com/in/chimeruzee-chidum-7417591ba/)
 ### Loves Clean Code, Day Dreaming Occasionally on React
 <!-- ### Founder @React-rooster. -->
 
